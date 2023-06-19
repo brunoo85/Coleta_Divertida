@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+p{
+  font-family: 'Modak', cursive;
+font-family: 'Fascinate Inline', cursive;
+font-family: 'Fredoka One', cursive;
+font-family: 'Lalezar', cursive;
+}
+p{
+  font-family: 'Concert One', cursive;
+}

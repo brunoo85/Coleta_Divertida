@@ -13,10 +13,10 @@ A cada nível do jogo as estações mudam e o lixo cai mais rápído, segue as f
 <img src="https://github.com/brunoo85/Coleta_Divertida/blob/main/images/readme/nivel4.jpeg?raw=true" width="45%" /> 
 </div>
 
+<br>
+
+[Jogo funcionando](coleta-divertida.vercel.app)<br>
 #
-
-[Jogo funcionando](coleta-divertida.vercel.app)
-
 ## Informações
 
 Coleta Divertida foi o primeiro projeto feito por mim, Bruno Cesar Ribeiro da Silva, juntamente com Pamela Melo da Rocha. Foi realizado para a avaliação final da disciplina de Lógica de Programação, ministrada pelo professor Rummenigge Rudson Dantas.

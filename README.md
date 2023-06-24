@@ -15,7 +15,7 @@ A cada nível do jogo as estações mudam e o lixo cai mais rápído, segue as f
 
 <br>
 
-[Jogo funcionando](coleta-divertida.vercel.app)<br>
+[Jogo funcionando](https://coleta-divertida.vercel.app)<br>
 #
 ## Informações
 
